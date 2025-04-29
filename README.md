@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Soy Carlos Izquierdo</h1>
+<h1 align="center">Hola 👋, Soy Carlos Izquierdo</h1>
 <h3 align="center">Un apasionado del mundo de la electronica</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-mad&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-mad" /> </p>
